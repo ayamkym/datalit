@@ -1,6 +1,6 @@
-# This an analysis of arrival delay time of different airlines
-#it is an anaylis of arrival tiime id distributed across diffrent airlines using densty plots and  histograms
-# this airlines includeUnited Air
+ This an analysis of arrival delay time of different airlines
+it is an anaylis of arrival tiime id distributed across diffrent airlines using densty plots and  histograms
+this airlines includeUnited Air
 United Air Lines Inc.
 American Airlines Inc.
 JetBlue Airways
