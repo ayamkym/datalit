@@ -18,4 +18,3 @@ Hawaiian Airlines Inc.
 Mesa Airlines Inc.
 SkyWest Airlines Inc.
 
-# trying to estimate which airline is likely to arrive early using density plots of the
